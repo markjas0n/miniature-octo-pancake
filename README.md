@@ -22,7 +22,7 @@ Run `npm test` to execute the tests.
 [![Watch the video](https://raw.githubusercontent.com/markjas0n/miniature-octo-pancake/main/assets/images/shot.jpg)](https://raw.githubusercontent.com/markjas0n/miniature-octo-pancake/main/assets/video/SVG.mp4)
 
 
-[![Video Title](https://ibb.co/NYwxg6p)](https://youtu.be/2ebdN9RPO0o?si=VUpaHKS2NWsu3q_E)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ebdN9RPO0o?si=VUpaHKS2NWsu3q_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## License
 
