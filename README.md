@@ -12,17 +12,19 @@ A Node.js command-line application to generate SVG logos.
 1. Run `node index.js` to start the application.
 2. Follow the prompts to generate your SVG logo.
 3. The generated logo will be saved as `logo.svg`.
+![INITIALIZE.gif](assets/images/gif1done.gif)
 
 ## Tests
 
 Run `npm test` to execute the tests.
+![RUNTEST-GIF](assets/images/gif2done.gif)
 
 ## Walkthrough Video
 
-[![Watch the video](https://raw.githubusercontent.com/markjas0n/miniature-octo-pancake/main/assets/images/shot.jpg)](https://raw.githubusercontent.com/markjas0n/miniature-octo-pancake/main/assets/video/SVG.mp4)
+ CLICK [[here]](https://youtu.be/2ebdN9RPO0o?si=tKdN7l8ZdDTANmhM)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ebdN9RPO0o?si=VUpaHKS2NWsu3q_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## License
 
